@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"infinix",
+        "model":"abc 1",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    },
+    {
+        "id":2,
+        "name":"infinix",
+        "model":"abc 2",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    },
+    {
+        "id":3,
+        "name":"techno",
+        "model":"abc 11",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    },
+    {
+        "id":4,
+        "name":"techno",
+        "model":"abc 121",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    },
+    {
+        "id":5,
+        "name":"infinix",
+        "model":"abc 233",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    },
+    {
+        "id":6,
+        "name":"iphone",
+        "model":"abc 122",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    },
+    {
+        "id":7,
+        "name":"techno",
+        "model":"abc 131",
+        "image":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+        "price":45000,
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam blandit pellentesque ex, sit amet hendrerit diam fermentum at. Pellentesque imperdiet risus turpis, a malesuada orci rhoncus a. "
+
+    }
+
+]
